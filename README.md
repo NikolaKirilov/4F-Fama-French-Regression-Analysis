@@ -18,7 +18,7 @@ Import the run_regression_analysis function from the fama_french_regression.py m
 from fama_french_regression import run_regression_analysis
 
 Define a list of stock tickers to analyze.<br />
-For exmaple: tickers = ['AAPL', 'MSFT', 'GOOGL', 'AMZN']
+For example: tickers = ['AAPL', 'MSFT', 'GOOGL', 'AMZN']
 
 Define the start and end dates for the analysis:<br />
 start = 'YYYY-MM-DD'<br />
