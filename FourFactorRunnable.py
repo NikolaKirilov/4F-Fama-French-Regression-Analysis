@@ -76,7 +76,7 @@ def get_price_yfin(ticker, start, end):
     Function to download the historic Adj Close price from Yahoo Finance
 
     Parameters:
-    ticker = The ticker of you need the data for
+    ticker = The tickers' data that you need 
     start = From when do you want to parse the data
     end = Until when do you want to parse the data
 
